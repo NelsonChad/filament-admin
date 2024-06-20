@@ -1,0 +1,1 @@
+<img src="{{ asset('images/google.png') }}" alt="logo" class="h-10">
